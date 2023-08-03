@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\bin\Debug\PS-22.exe.config
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\bin\Debug\PS-22.exe
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\bin\Debug\PS-22.pdb
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\obj\Debug\PS-22.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\obj\Debug\PS-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\obj\Debug\PS-22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\obj\Debug\PS-22.exe
+C:\Users\Admin\source\repos\PS-22 Day-20\PS-22\obj\Debug\PS-22.pdb
